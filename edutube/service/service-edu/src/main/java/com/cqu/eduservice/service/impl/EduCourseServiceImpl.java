@@ -2,6 +2,7 @@ package com.cqu.eduservice.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.bibofu.edu.exceptionhandler.MyException;
 import com.cqu.eduservice.client.StatisticsClient;
 import com.cqu.eduservice.entity.EduCourse;
 import com.cqu.eduservice.entity.EduCourseDescription;
@@ -12,7 +13,6 @@ import com.cqu.eduservice.entity.vo.CoursePublishVo;
 import com.cqu.eduservice.mapper.EduCourseMapper;
 import com.cqu.eduservice.service.*;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.cqu.servicebase.exceptionhandler.MyException;
 import io.swagger.models.auth.In;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;

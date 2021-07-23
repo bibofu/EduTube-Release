@@ -19,7 +19,6 @@
         <module>service-pay</module>
         <module>service-dailycount</module>
         <module>service-act</module>
-        <module>service-alipay</module>
     </modules>
 
     <dependencies>
