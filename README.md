@@ -29,7 +29,7 @@
 
 service-act 模块为活动管理模块，包括管理员对活动进行发布，修改，删除等操作，用户前台看到活动并买到打折优惠课程，此模块尚处于开发中
 
-service-alipay模块暂无内容
+service-alipay模块暂无内容，已删除！！
 
 service-dailycount模块用于每日数据统计，包括注册人数，登录人数等
 
