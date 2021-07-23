@@ -1,6 +1,7 @@
 package com.cqu.eduservice.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.bibofu.edu.exceptionhandler.MyException;
 import com.cqu.eduservice.entity.EduChapter;
 import com.cqu.eduservice.entity.EduVideo;
 import com.cqu.eduservice.entity.chapter.ChapterVo;
@@ -9,7 +10,6 @@ import com.cqu.eduservice.mapper.EduChapterMapper;
 import com.cqu.eduservice.service.EduChapterService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.cqu.eduservice.service.EduVideoService;
-import com.cqu.servicebase.exceptionhandler.MyException;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

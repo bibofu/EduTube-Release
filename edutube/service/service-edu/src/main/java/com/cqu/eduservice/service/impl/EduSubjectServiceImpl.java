@@ -2,6 +2,7 @@ package com.cqu.eduservice.service.impl;
 
 import com.alibaba.excel.EasyExcel;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.bibofu.edu.exceptionhandler.MyException;
 import com.cqu.eduservice.entity.EduCourse;
 import com.cqu.eduservice.entity.EduSubject;
 import com.cqu.eduservice.entity.excel.SubjectData;
@@ -14,7 +15,6 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.cqu.eduservice.service.EduVideoService;
 import com.cqu.eduservice.subject.OneSubject;
 import com.cqu.eduservice.subject.TwoSubject;
-import com.cqu.servicebase.exceptionhandler.MyException;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
