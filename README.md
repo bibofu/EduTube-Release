@@ -11,7 +11,7 @@
 
 ## 使用手册：
 
-1 git clone https://github.com/bibofu/EduTube-Release，把项目下载到本地
+1 git clone https://github.com/bibofu/EduTube-Release
 
 2 用IDEA或eclipse等IDE打开，运行各个模块的启动类即可启动相关服务
 
