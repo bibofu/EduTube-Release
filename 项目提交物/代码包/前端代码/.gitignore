@@ -1,0 +1,18 @@
+# Build and Release Folders
+# 临时文件和 一些 debeg 的过滤
+bin-debug/
+bin-release/
+[Oo]bj/
+# Other files and folders
+*.settings
+*.log
+*.pid
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
