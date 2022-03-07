@@ -1,7 +1,7 @@
 # EduTube-Release
 2021.7.5-2021.7.26实训项目
 
-
+项目视频：https://www.bilibili.com/video/BV1o34y1b77u/
 
 项目github地址 ：https://github.com/bibofu/EduTube-Release , 该版本于2021-7-23发布
 
